@@ -3,7 +3,7 @@ clc
 close all
 
 
-%% 1
+%% Opening the Files and setting the array
 fid=fopen('Green3.txt','r');
 S=textscan(fid,'%f');
 
