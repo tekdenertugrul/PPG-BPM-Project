@@ -9,3 +9,7 @@ the heart rate values in a quiet environment and environment that includes sligh
 1- Note that the index.m is a simple Matlab code that calculates heart rate using real data.
 
 2- Realtime.py is a python code that calculates real-time heart rate values using python. The digital data is coming from Arduino through the computer, and the program needs Arduino and the mobile sensor to work.
+
+3- Testing the device in a quiet environment, https://www.youtube.com/shorts/PXQS_-llroE 
+
+4- Testing the device in a slight motion, https://youtube.com/shorts/1m5HrMxU0iE
